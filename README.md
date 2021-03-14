@@ -7,7 +7,7 @@
 
 ### Что здесь?
 - [**espruino**](https://github.com/igboris/myhub/tree/master/espruino) - java-script на МК
-- [**code**] (https://github.com/igboris/myhub/tree/master/code))
+- [**code**](https://github.com/igboris/myhub/tree/master/code))
 
 ### Надо сделать
 - [x] Добавить папку *code*
